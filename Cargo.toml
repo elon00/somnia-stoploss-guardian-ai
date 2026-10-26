@@ -1,0 +1,9 @@
+[package]
+name = "somnia-stoploss-guardian-ai"
+version = "1.0.0"
+edition = "2021"
+authors = ["Martin Luther <martinlutherupa1@gmail.com>"]
+description = "Flash-crash circuit breaker and slippage guard"
+license = "MIT"
+
+[dependencies]
